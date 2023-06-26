@@ -1,3 +1,5 @@
+# Microsoft fatest coder first
+
 # hackathon-weather
 hackathon-weather
 python-weather The Python Weather project is a Python program that fetches weather data from a weather API and displays it to the user. The project is divided into two main components:
